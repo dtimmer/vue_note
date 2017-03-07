@@ -1,0 +1,23 @@
+{
+	"isAllList": true,
+	"notes": [
+		{
+			"text": "妇女节\n记得打电话",
+			"title": "3月8日",
+			"favorite": false,
+			"_rm": 0.5374366237930872
+		},
+		{
+			"text": "国庆节1251",
+			"title": "10月1日",
+			"favorite": true,
+			"_rm": 0.06736014154628212
+		}
+	],
+	"activeNote": {
+		"text": "国庆节1251",
+		"title": "10月1日",
+		"favorite": true,
+		"_rm": 0.06736014154628212
+	}
+}
